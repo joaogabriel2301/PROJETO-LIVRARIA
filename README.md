@@ -3,6 +3,7 @@ DISCENTES:
 - Ana Lívia dos Santos Araújo 20211214010015
 - Gabriela de Sousa Oliveira 20221214010032
 - João Gabriel de Araújo Oliveira 20211214010019
+  
 RESUMO:
 O desenvolvimento de um software responsável por gerenciar as
 demandas de cadastro e mapeamento das vendas de uma livraria é o objetivo
